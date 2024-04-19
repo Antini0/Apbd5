@@ -10,5 +10,12 @@ public class StaticData
         new Animal(),
         new Animal()
     };
+    
+    public static List<Visit> visits = new List<Visit>()
+    {
+        new Visit(),
+        new Visit(),
+        new Visit()
+    };
 
 }
